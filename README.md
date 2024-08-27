@@ -22,7 +22,7 @@ These systems are designed to streamline and automate the processes involved in 
 
 ## Technologies Used
 
-- **Java:** Core programming language used for application development.
+- **Java:** Core programming language used.
 - **JDBC:** Java Database Connectivity for interacting with the MySQL database.
 - **MySQL:** Relational database management system for storing and managing data.
 
